@@ -1,0 +1,3 @@
+broker:
+  hostname: localhost
+  port: 1883

@@ -1,0 +1,7 @@
+name: InternetOfBlocks
+main: net.foojiyama.minecraft.InternetOfBlocks
+version: 0.0.1-SNAPSHOT
+commands:
+  foobar:
+    description: Test
+    usage: /foobar [whatever]
